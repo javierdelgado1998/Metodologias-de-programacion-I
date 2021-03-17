@@ -1,0 +1,13 @@
+C:\Users\Pantera\Documents\ProjectsVSCODE\Metodologías\TP6\bin\Debug\netcoreapp3.1\TP6.exe
+C:\Users\Pantera\Documents\ProjectsVSCODE\Metodologías\TP6\bin\Debug\netcoreapp3.1\TP6.deps.json
+C:\Users\Pantera\Documents\ProjectsVSCODE\Metodologías\TP6\bin\Debug\netcoreapp3.1\TP6.runtimeconfig.json
+C:\Users\Pantera\Documents\ProjectsVSCODE\Metodologías\TP6\bin\Debug\netcoreapp3.1\TP6.runtimeconfig.dev.json
+C:\Users\Pantera\Documents\ProjectsVSCODE\Metodologías\TP6\bin\Debug\netcoreapp3.1\TP6.dll
+C:\Users\Pantera\Documents\ProjectsVSCODE\Metodologías\TP6\bin\Debug\netcoreapp3.1\TP6.pdb
+C:\Users\Pantera\Documents\ProjectsVSCODE\Metodologías\TP6\obj\Debug\netcoreapp3.1\TP6.csprojAssemblyReference.cache
+C:\Users\Pantera\Documents\ProjectsVSCODE\Metodologías\TP6\obj\Debug\netcoreapp3.1\TP6.csproj.CoreCompileInputs.cache
+C:\Users\Pantera\Documents\ProjectsVSCODE\Metodologías\TP6\obj\Debug\netcoreapp3.1\TP6.AssemblyInfoInputs.cache
+C:\Users\Pantera\Documents\ProjectsVSCODE\Metodologías\TP6\obj\Debug\netcoreapp3.1\TP6.AssemblyInfo.cs
+C:\Users\Pantera\Documents\ProjectsVSCODE\Metodologías\TP6\obj\Debug\netcoreapp3.1\TP6.dll
+C:\Users\Pantera\Documents\ProjectsVSCODE\Metodologías\TP6\obj\Debug\netcoreapp3.1\TP6.pdb
+C:\Users\Pantera\Documents\ProjectsVSCODE\Metodologías\TP6\obj\Debug\netcoreapp3.1\TP6.genruntimeconfig.cache
